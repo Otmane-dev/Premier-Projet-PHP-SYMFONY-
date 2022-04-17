@@ -1,0 +1,14 @@
+{
+    "name": "otmane/modern-php",
+    "description": "premier projet php",
+    "type": "projet",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+           
+
+        }
+    },
+    "minimum-stability": "stable",
+    "require": {}
+}
